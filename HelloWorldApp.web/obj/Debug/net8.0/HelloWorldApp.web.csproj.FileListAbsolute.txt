@@ -28,3 +28,4 @@ D:\STUDY\DEVOPS_STUDY\PROJECT_1\HelloWorldApp\HelloWorldApp\HelloWorldApp.web\ob
 D:\STUDY\DEVOPS_STUDY\PROJECT_1\HelloWorldApp\HelloWorldApp\HelloWorldApp.web\obj\Debug\net8.0\HelloWorldApp.web.pdb
 D:\STUDY\DEVOPS_STUDY\PROJECT_1\HelloWorldApp\HelloWorldApp\HelloWorldApp.web\obj\Debug\net8.0\HelloWorldApp.web.genruntimeconfig.cache
 D:\STUDY\DEVOPS_STUDY\PROJECT_1\HelloWorldApp\HelloWorldApp\HelloWorldApp.web\obj\Debug\net8.0\ref\HelloWorldApp.web.dll
+D:\STUDY\DEVOPS_STUDY\PROJECT_1\HelloWorldApp\HelloWorldApp\HelloWorldApp.web\obj\Debug\net8.0\HelloWorldApp.web.sourcelink.json
