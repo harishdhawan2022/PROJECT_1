@@ -1,0 +1,7 @@
+D:\STUDY\DEVOPS_STUDY\out\HelloWorldApp.web.exe
+D:\STUDY\DEVOPS_STUDY\out\appsettings.Development.json
+D:\STUDY\DEVOPS_STUDY\out\appsettings.json
+D:\STUDY\DEVOPS_STUDY\out\HelloWorldApp.web.dll
+D:\STUDY\DEVOPS_STUDY\out\HelloWorldApp.web.deps.json
+D:\STUDY\DEVOPS_STUDY\out\HelloWorldApp.web.runtimeconfig.json
+D:\STUDY\DEVOPS_STUDY\out\HelloWorldApp.web.pdb
